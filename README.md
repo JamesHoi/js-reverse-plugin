@@ -1,5 +1,5 @@
 # js-reverse-plugin
-A plugin for reversing website javascript
+A chrome plugin for reversing website javascript
 
 # How to use?
 modify `url_setting.js` and move your reverse js to the path `js-reverse-plugin/js`
