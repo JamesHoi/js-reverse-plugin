@@ -1,0 +1,19 @@
+{
+   "name": "Js Reverse Plugin",
+   "version": "1.0",
+   "manifest_version": 2,
+   "description": "",
+   "browser_action": 
+   {
+      "default_title": "Js Reverse Plugin"
+   },
+   "background": {
+      "persistent": true,
+      "scripts": ["background.js","js/url_setting.js"]
+   },
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>", "unlimitedStorage","http://*/*","https://*/*"],
+   "web_accessible_resources": [
+      "background.js",
+      "js/*.js"
+    ]
+}
