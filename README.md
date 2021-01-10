@@ -24,6 +24,7 @@ var ReResMap = [
 ```
 
 # Example
+[![s17a9S.png](https://s3.ax1x.com/2021/01/11/s17a9S.png)](https://imgchr.com/i/s17a9S)  
 Extract `login.js` from [website](https://jameshoi.github.io/files/js-reverse) and format
 ```javascript
 var Qfu1 = window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x62\x74\x6e');
