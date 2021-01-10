@@ -17,7 +17,7 @@ var ReResMap = [
 	},
 	// example
 	{
-		"req": "https://jameshoi.github.io/files/js-reverse",
+		"req": "https://jameshoi.github.io/files/js-reverse/login.js",
 		"res": "chrome-extension://"+chrome.runtime.id+"/js/example.js"
 	}
 ];
