@@ -1,5 +1,6 @@
 # js-reverse-plugin
-A chrome plugin for reversing website javascript
+A chrome plugin for reversing website javascript  
+[中文介绍](https://jameshoi.github.io/2021/01/10/js-reverse/)   
 
 # How to use?
 Modify `url_setting.js` and move your reverse js to the path `js-reverse-plugin/js`
